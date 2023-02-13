@@ -1,0 +1,18 @@
+{
+   "myplaces": [
+        {
+            "location": "Beijing",
+            "amount": 0,
+            "color": "rgb(255,100,100)"
+        },
+        {
+            "location": "California",
+            "amount": 31,
+            "color": "rgb(100,255,100)"
+        },    
+        {
+            "location": "Amsterdam",
+            "amount": 26,
+            "color": "rgb(100,100,255)"}
+    ]
+}
